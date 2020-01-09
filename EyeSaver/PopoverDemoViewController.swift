@@ -114,7 +114,7 @@ class PopoverDemoViewController: NSViewController, NSWindowDelegate, TimerTickDe
     }
     
     @IBAction func openHelpLink(_ sender: Any) {
-        NSWorkspace.shared.open(URL(string: "https://mp.weixin.qq.com/mp/homepage?__biz=MzA3NjgyNzk2Mw==&hid=9&sn=a8659578289ebda32f75ac0949ea1258")!)
+//        NSWorkspace.shared.open(URL(string: "https://mp.weixin.qq.com/mp/homepage?__biz=MzA3NjgyNzk2Mw==&hid=9&sn=a8659578289ebda32f75ac0949ea1258")!)
     
     }
     
