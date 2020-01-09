@@ -327,7 +327,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
-				DEVELOPMENT_TEAM = 2GD9KGFG9R;
+				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = EyeSaverLauncher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -336,7 +336,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = cn.marno.EyeSaverLauncher;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.wilson.EyeSaverLauncher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -353,7 +353,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
-				DEVELOPMENT_TEAM = 2GD9KGFG9R;
+				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = EyeSaverLauncher/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -361,7 +361,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = cn.marno.EyeSaverLauncher;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.wilson.EyeSaverLauncher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -489,18 +489,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = EyeSaver/PopoverDemo.entitlements;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
-				DEVELOPMENT_TEAM = 2GD9KGFG9R;
+				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				INFOPLIST_FILE = EyeSaver/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = cn.marno.eyesaver;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.wilson.eyesaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -512,18 +512,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = EyeSaver/PopoverDemo.entitlements;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
-				DEVELOPMENT_TEAM = 2GD9KGFG9R;
+				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				INFOPLIST_FILE = EyeSaver/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = cn.marno.eyesaver;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.wilson.eyesaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
