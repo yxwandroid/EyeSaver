@@ -51,7 +51,7 @@
 		2EF1F172232E69B20033A630 /* WorkTimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkTimerManager.swift; sourceTree = "<group>"; };
 		2EF1F174232E76EC0033A630 /* ConfigUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigUtils.swift; sourceTree = "<group>"; };
 		2EF1F177232E7BEF0033A630 /* TimeUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeUtils.swift; sourceTree = "<group>"; };
-		6BCD44BA20E5D5480042DC44 /* EyeSaver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EyeSaver.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BCD44BA20E5D5480042DC44 /* 小番茄.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小番茄.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BCD44BD20E5D5480042DC44 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BCD44BF20E5D5490042DC44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BCD44C220E5D5490042DC44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 		6BCD44BB20E5D5480042DC44 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6BCD44BA20E5D5480042DC44 /* EyeSaver.app */,
+				6BCD44BA20E5D5480042DC44 /* 小番茄.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -135,9 +135,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6BCD44B920E5D5480042DC44 /* EyeSaver */ = {
+		6BCD44B920E5D5480042DC44 /* 小番茄 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6BCD44C820E5D5490042DC44 /* Build configuration list for PBXNativeTarget "EyeSaver" */;
+			buildConfigurationList = 6BCD44C820E5D5490042DC44 /* Build configuration list for PBXNativeTarget "小番茄" */;
 			buildPhases = (
 				6BCD44B620E5D5480042DC44 /* Sources */,
 				6BCD44B720E5D5480042DC44 /* Frameworks */,
@@ -148,9 +148,9 @@
 			);
 			dependencies = (
 			);
-			name = EyeSaver;
+			name = "小番茄";
 			productName = PopoverDemo;
-			productReference = 6BCD44BA20E5D5480042DC44 /* EyeSaver.app */;
+			productReference = 6BCD44BA20E5D5480042DC44 /* 小番茄.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -169,7 +169,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6BCD44B520E5D5480042DC44 /* Build configuration list for PBXProject "EyeSaver" */;
+			buildConfigurationList = 6BCD44B520E5D5480042DC44 /* Build configuration list for PBXProject "小番茄" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -182,7 +182,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6BCD44B920E5D5480042DC44 /* EyeSaver */,
+				6BCD44B920E5D5480042DC44 /* 小番茄 */,
 			);
 		};
 /* End PBXProject section */
@@ -360,7 +360,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEPLOYMENT_POSTPROCESSING = YES;
 				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				INFOPLIST_FILE = EyeSaver/Info.plist;
@@ -385,7 +385,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEPLOYMENT_POSTPROCESSING = YES;
 				DEVELOPMENT_TEAM = 6L86G8TBZ9;
 				INFOPLIST_FILE = EyeSaver/Info.plist;
@@ -404,7 +404,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6BCD44B520E5D5480042DC44 /* Build configuration list for PBXProject "EyeSaver" */ = {
+		6BCD44B520E5D5480042DC44 /* Build configuration list for PBXProject "小番茄" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BCD44C620E5D5490042DC44 /* Debug */,
@@ -413,7 +413,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6BCD44C820E5D5490042DC44 /* Build configuration list for PBXNativeTarget "EyeSaver" */ = {
+		6BCD44C820E5D5490042DC44 /* Build configuration list for PBXNativeTarget "小番茄" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6BCD44C920E5D5490042DC44 /* Debug */,

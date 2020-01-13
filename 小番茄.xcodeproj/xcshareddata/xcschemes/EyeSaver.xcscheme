@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6BCD44B920E5D5480042DC44"
-               BuildableName = "EyeSaver.app"
-               BlueprintName = "EyeSaver"
-               ReferencedContainer = "container:EyeSaver.xcodeproj">
+               BuildableName = "&#x5c0f;&#x756a;&#x8304;.app"
+               BlueprintName = "&#x5c0f;&#x756a;&#x8304;"
+               ReferencedContainer = "container:&#x5c0f;&#x756a;&#x8304;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BCD44B920E5D5480042DC44"
-            BuildableName = "EyeSaver.app"
-            BlueprintName = "EyeSaver"
-            ReferencedContainer = "container:EyeSaver.xcodeproj">
+            BuildableName = "&#x5c0f;&#x756a;&#x8304;.app"
+            BlueprintName = "&#x5c0f;&#x756a;&#x8304;"
+            ReferencedContainer = "container:&#x5c0f;&#x756a;&#x8304;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BCD44B920E5D5480042DC44"
-            BuildableName = "EyeSaver.app"
-            BlueprintName = "EyeSaver"
-            ReferencedContainer = "container:EyeSaver.xcodeproj">
+            BuildableName = "&#x5c0f;&#x756a;&#x8304;.app"
+            BlueprintName = "&#x5c0f;&#x756a;&#x8304;"
+            ReferencedContainer = "container:&#x5c0f;&#x756a;&#x8304;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6BCD44B920E5D5480042DC44"
-            BuildableName = "EyeSaver.app"
-            BlueprintName = "EyeSaver"
-            ReferencedContainer = "container:EyeSaver.xcodeproj">
+            BuildableName = "&#x5c0f;&#x756a;&#x8304;.app"
+            BlueprintName = "&#x5c0f;&#x756a;&#x8304;"
+            ReferencedContainer = "container:&#x5c0f;&#x756a;&#x8304;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
